@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Kaio Eduardo 👋
 
-<!--
-**KaioEduardoAraujo/KaioEduardoAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional de tecnologia com interesse em **Cloud Computing e DevOps**.
 
-Here are some ideas to get you started:
+Sou formado em **Técnico em Informática pela ETEC de Mauá** e atualmente sou graduando em **Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho (UNINOVE)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em infraestrutura, cloud e desenvolvimento de soluções utilizando tecnologias modernas.
+
+## Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+</p>
+
+## Certificação
+
+- **AWS Certified Cloud Practitioner**  
+  [Ver certificação na Credly](https://www.credly.com/badges/16633d16-9251-48a0-939b-a9a50fe23eb6/linked_in?t=te9yc4)
+
+## Contato
+
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/kaioeduardoaraujo/)
