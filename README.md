@@ -13,8 +13,6 @@ Tenho interesse em infraestrutura, cloud e desenvolvimento de soluções utiliza
 ### **Estagiário de Suporte Técnico de TI** | **COREN-SP** *(01/2025 - Atual)*
 Atuação em ambiente corporativo com mais de 400 usuários, prestando suporte presencial e remoto com foco em continuidade de serviços e resolução de incidentes:
 
-Atuação em ambiente corporativo com mais de 400 usuários, prestando suporte presencial e remoto com foco em continuidade de serviços e resolução de incidentes:
-
 - **Administração de Sistemas:** Gerenciamento de usuários, computadores, grupos e redefinição de senhas no **Windows Active Directory (AD)**.
 - **Segurança:** Análise de logs de autenticação e gerenciamento de permissões de acesso VPN via **FortiAuthenticator**, garantindo conformidade de acessos remotos.
 - **Gestão de Incidentes:** Atendimento e acompanhamento de chamados corporativos via **GLPI** dentro dos níveis de **SLA**.
