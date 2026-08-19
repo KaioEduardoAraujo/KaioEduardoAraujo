@@ -10,7 +10,7 @@ Tenho interesse em infraestrutura, cloud e desenvolvimento de soluções utiliza
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="40" height="40" alt="AWS"/>
   <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/>
   <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
