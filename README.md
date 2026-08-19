@@ -24,4 +24,6 @@ Tenho interesse em infraestrutura, cloud e desenvolvimento de soluções utiliza
 
 ## Contato
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/kaioeduardoaraujo/)
+<a href="https://www.linkedin.com/in/kaioeduardoaraujo/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+</a>
