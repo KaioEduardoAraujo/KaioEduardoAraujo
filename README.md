@@ -33,8 +33,7 @@ Atuação em ambiente corporativo com mais de 400 usuários, prestando suporte p
 
 ## Certificação
 
-- **AWS Certified Cloud Practitioner**  
-  [Ver certificação na Credly](https://www.credly.com/badges/16633d16-9251-48a0-939b-a9a50fe23eb6/linked_in?t=te9yc4)
+<a target="__blank" href="https://www.credly.com/badges/91cc8685-4c19-4f44-a61d-2f0b66158540"><img height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 
 ## Contato
 
