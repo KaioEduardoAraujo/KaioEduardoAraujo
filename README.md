@@ -6,7 +6,7 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
 
 ---
 
-## 🛡️ About Me
+## About Me
 
 ```bash
 ┌──(kaioeduardo㉿ubuntu)-[~]
@@ -30,9 +30,7 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/kaioeduardoaraujo/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/kaioeduardoaraujo/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/> </a> <a href="mailto:kaioeduardoaraujo0808@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="30" height="30" alt="Gmail"/> </a>
 
 ---
 
