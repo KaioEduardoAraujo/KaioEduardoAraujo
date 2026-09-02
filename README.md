@@ -19,3 +19,5 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
 <a href="https://www.linkedin.com/in/kaioeduardoaraujo/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
+
+![error.jpeg](https://github.com/KaioEduardoAraujo/KaioEduardoAraujo/blob/main/error.jpeg)
