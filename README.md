@@ -20,4 +20,8 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
 
-![error.jpeg](https://github.com/KaioEduardoAraujo/KaioEduardoAraujo/blob/main/error.jpeg)
+---
+
+<p align="center">
+  <img src="./assets/error.jpeg" width="600" alt="error image"/>
+</p>
