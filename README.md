@@ -1,6 +1,4 @@
-<h1 align="center">Kaio Eduardo</h1>
-
----
+<h1 align="center">Kaio Eduardo Araujo</h1>
 
 I am a technology professional with an interest in **Cloud Computing/Cloud Security and DevOps**.
 
