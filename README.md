@@ -23,5 +23,5 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
 ---
 
 <p align="center">
-  <img src="./assets/error.jpeg" width="600" alt="error image"/>
+  <img src="./assets/error.jpeg" width="500" alt="error image"/>
 </p>
