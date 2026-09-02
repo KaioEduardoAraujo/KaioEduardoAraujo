@@ -8,7 +8,7 @@ I hold a technical diploma in IT from ETEC Mauá and am currently pursuing a deg
 
 ## Technologies and tools
 
-<p align="left"> <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="40" height="40" alt="AWS"/> <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"/> <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/> <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/> <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/> <img src="https://cdn.simpleicons.org/gnubash" width="40" height="40" alt="Shell Script"/> </p>
+<p align="left"> <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="40" height="40" alt="AWS"/> <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"/> <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/> <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/> <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/> <img src="https://cdn.simpleicons.org/gnubash" width="40" height="40" alt="Shell Script"/> <img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform"/> </p>
 
 ## Certification
 
